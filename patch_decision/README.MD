@@ -1,0 +1,1 @@
+This set of code is useful in deciding if a given patch is positive or negative( i.e. contains or not contain WBC) and uses sliding window + a decision maker to count number of positive and negatives in a image window.
